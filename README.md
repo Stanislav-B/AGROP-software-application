@@ -1,7 +1,6 @@
-# AGROP-Java-applet
-Software application
+# AGROP-software-application
 
-This repository contains the Java applet, which is a part of the paper entitled "Choquet integrals based on conditional aggregation operators, Java applet" submitted to the journal Journal of Applied Mathematics and Computing.
+This repository contains the software application, which is a part of the paper entitled "Choquet integrals based on conditional aggregation operators, software application".
 
 Authored by
 
